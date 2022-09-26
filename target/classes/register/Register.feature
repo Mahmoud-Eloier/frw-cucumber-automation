@@ -1,4 +1,4 @@
-Feature: Je remplir complètement le formulaire
+ Feature: Je remplir complètement le formulaire
   En tant que utilisateur je souhaite me créer mon compte au site Mercury
 
   @creation
