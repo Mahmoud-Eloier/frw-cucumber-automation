@@ -10,7 +10,7 @@ import com.e2etests.automation.utils.ConfigFileReader;
 import com.e2etests.automation.utils.Setup;
 
 public class RegisterPage {
-private ConfigFileReader configFileReader;
+	private ConfigFileReader configFileReader;
 	
 	/*@FindBy*/
     @FindBy(how = How.TAG_NAME, using = "a")
